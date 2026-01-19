@@ -30,3 +30,7 @@
   /container/envs:
     - tf: name
       mt: list
+7.21:
+  /container/config:
+    - tf: ram_high
+      mt: memory_high
